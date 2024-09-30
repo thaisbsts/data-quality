@@ -1,1 +1,2 @@
-# data-quality
+# 📊 Análise de Movimentos Corporais em Exercícios
+Este dataset tem como foco a análise dos movimentos do corpo humano durante exercícios comuns, capturando e processando os ângulos das articulações-chave do corpo. Os dados foram extraídos de vídeo para analisar ângulos _frame_ por _frame_ das partes do corpo durante vários exercícios, como flexões, polichinelos, barras, agachamentos e torções russas. 
